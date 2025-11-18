@@ -41,3 +41,5 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
 
+![Build](https://img.shields.io/github/actions/workflow/status/godofentropy/dataops-ci-cd/main.yml?label=Build)
+
