@@ -5,6 +5,8 @@
 💡 I build data pipelines, automate analytics, and design dashboards that bridge tech and business strategy.
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karanganesh97&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karanganesh97&layout=compact&theme=tokyonight)
 
 ### 🧠 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
