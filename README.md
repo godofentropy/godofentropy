@@ -1,3 +1,4 @@
+[Resume_KG_Product_Updated.pdf](https://github.com/user-attachments/files/26224063/Resume_KG_Product_Updated.pdf)
 # 👋 Hi, I’m Karan Ganesh
 
 🚀 Data Engineer & Analyst | Turning raw data into reliable insights and scalable systems.  
