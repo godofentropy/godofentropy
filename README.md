@@ -1,44 +1,45 @@
-[Resume_KG_Product_Updated.pdf](https://github.com/user-attachments/files/26224063/Resume_KG_Product_Updated.pdf)
-# 👋 Hi, I’m Karan Ganesh
+# Hi, I'm Karan Ganesh
 
-🚀 Data Engineer & Analyst | Turning raw data into reliable insights and scalable systems.  
-🎓 M.S. in Technology Management @ UIUC | Gold Medalist in Aeronautical Engineering  
-💡 I build data pipelines, automate analytics, and design dashboards that bridge tech and business strategy.
+Product Manager with 5+ years of experience shipping B2B SaaS and consumer products. Currently building ResuMage, a resume tailoring tool that helps job seekers represent their experience honestly without fabricating or padding.
+
+Previously Senior PM at Pykupz Technologies, owning a multi-channel Ads SaaS for 20+ enterprise B2B clients and a ride-hailing platform. Now a Product Specialist at UIUC's Technology Solutions Hub. M.S. in Technology Management @ UIUC. Gold Medalist in Aeronautical Engineering.
+
+[Resume](https://github.com/user-attachments/files/27449873/KG_resume.pdf)| [LinkedIn](https://www.linkedin.com/in/karanganesh97/) | [ResuMage](https://resumage.org)
 
 ---
 
-### 🧠 Languages & Frameworks
+### What I do
+
+- Product roadmapping, backlog management, OKRs, sprint planning, GTM strategy
+- Enterprise client management, stakeholder discovery, executive presentations
+- Data analytics, cohort analysis, churn modeling, A/B testing
+- Building with React, Firebase, REST APIs
+
+---
+
+### Languages & Frameworks
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 
 ---
 
-### ⚙️ Data Engineering & DevOps
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
-![NiFi](https://img.shields.io/badge/Apache%20NiFi-0096D6?logo=apache&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+### Data & Analytics
 
----
-
-### 📊 Analytics & Visualization
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
-![Qlik](https://img.shields.io/badge/Qlik%20Sense-009848?logo=qlik&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?logo=looker&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=googlebigquery&logoColor=white)
 
 ---
 
-### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
+### Tools
 
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
