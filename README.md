@@ -4,7 +4,8 @@ Product Manager with 5+ years of experience shipping B2B SaaS and consumer produ
 
 Previously Senior PM at Pykupz Technologies, owning a multi-channel Ads SaaS for 20+ enterprise B2B clients and a ride-hailing platform. Now a Product Specialist at UIUC's Technology Solutions Hub. M.S. in Technology Management @ UIUC. Gold Medalist in Aeronautical Engineering.
 
-[Resume](https://github.com/user-attachments/files/27449873/KG_resume.pdf)| [LinkedIn](https://www.linkedin.com/in/karanganesh97/) | [ResuMage](https://resumage.org)
+[Resume](https://github.com/user-attachments/files/27611487/KG_resume_CG.pdf)
+| [LinkedIn](https://www.linkedin.com/in/karanganesh97/) | [ResuMage](https://resumage.org)
 
 ---
 
